@@ -10,5 +10,12 @@ CREATE EXTENSION IF NOT EXISTS pg_trgm;
 CREATE EXTENSION IF NOT EXISTS fuzzystrmatch;
 в psql 
 
+----------------------------------------------------
+educator
+http://www.sitepoint.com/go-global-rails-i18n/
+
+i18n rails apps
+
+
 
 
